@@ -10,3 +10,9 @@ Step 2
 
 cp wallet.json.example wallet.json
 
+Step 3
+
+Then open the file: wallet.json
+
+Paste your test wallet details
+
