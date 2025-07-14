@@ -22,3 +22,9 @@ Paste your test wallet details
   "rpc": "https://octra.network"
 }
 ```
+
+Step 4 : Send a test transaction
+
+send to any address 
+
+python cli.py send --to octECeUEKyTeFMYBumubqnskCYo292LJaDi8pR7ETJB4NYz --amount 0.01
