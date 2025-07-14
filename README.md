@@ -3,9 +3,9 @@ Week1 Task -Octra
 Quest1 - Send Tokens
 
 Step 1
-
+```bash
 pip install -r requirements.txt
-
+```
 Step 2
 
 cp wallet.json.example wallet.json
