@@ -16,3 +16,8 @@ Then open the file: wallet.json
 
 Paste your test wallet details
 
+{
+  "priv": "private key here",
+  "addr": "octxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "rpc": "https://octra.network"
+}
