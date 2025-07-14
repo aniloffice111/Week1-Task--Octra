@@ -7,17 +7,18 @@ Step 1
 pip install -r requirements.txt
 ```
 Step 2
-
+```bash
 cp wallet.json.example wallet.json
-
+```
 Step 3
 
 Then open the file: wallet.json
 
 Paste your test wallet details
-
+```bash
 {
   "priv": "private key here",
   "addr": "octxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "rpc": "https://octra.network"
 }
+```
